@@ -1,7 +1,7 @@
 # Penguin Solitaire
 
 Penguin Solitaire is a Java applet based on the solitaire card game, Penguin.
-
+![Penguin Solitaire Starting](https://github.com/mattleung10/PenguinSolitaire/blob/master/examples/PenguinSolitaire1.png)
 ## To Play
 
 Download all the files, and run the `Main.java` file.
